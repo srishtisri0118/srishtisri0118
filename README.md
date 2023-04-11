@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srishtisri0118
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Data Science and Python
-- 💞️ I’m looking to collaborate on Python and NumPy related projects
+- 💞️ I’m looking to collaborate on Python and SQL related projects
 - 📫 How to reach me -> sri.srivastava1998@gmail.com
 
 <!---
